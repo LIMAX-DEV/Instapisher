@@ -38,7 +38,6 @@ O propósito é puramente educacional:
 - Clonagem de página de login do Instagram para simulação.
 - Servidor web local para hospedar a simulação.
 - Registro de interações em ambiente de teste.
-- (Adicione outras funcionalidades do seu script)
 
 ---
 
