@@ -47,9 +47,6 @@ O propósito é puramente educacional:
 ```bash
 # Clone o repositório
 git clone https://github.com/LIMAX-DEV/Instapisher.git
-cd instapisher
+cd Instapisher
+python core.py
 
-# Instale as dependências
-pip install -r requirements.txt
-# Ou para sistemas baseados em Unix
-sudo apt-get install python3 php openssh-client -y
