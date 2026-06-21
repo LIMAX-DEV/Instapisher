@@ -46,7 +46,7 @@ O propósito é puramente educacional:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/instapisher.git
+git clone https://github.com/LIMAX-DEV/Instapisher.git
 cd instapisher
 
 # Instale as dependências
