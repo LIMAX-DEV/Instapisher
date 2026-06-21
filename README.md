@@ -42,10 +42,9 @@ O propósito é puramente educacional:
 
 ---
 
-## 🛠️ Pré-requisitos e Instalação
+## 🛠️ Instalação
 
 ```bash
-# Clone o repositório
 git clone https://github.com/LIMAX-DEV/Instapisher.git
 cd Instapisher
 python core.py
